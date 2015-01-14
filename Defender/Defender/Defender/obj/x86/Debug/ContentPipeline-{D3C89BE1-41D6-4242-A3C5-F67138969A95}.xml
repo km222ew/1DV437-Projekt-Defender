@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Menu\howtoplaybutton.png</Source>
+      <Name>Images\Menu\howtoplaybutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Menu\howtoplaybutton.xnb</Output>
+      <Time>2014-06-08T20:35:54.2913495+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\optionsbutton.png</Source>
+      <Name>Images\Menu\optionsbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Menu\optionsbutton.xnb</Output>
+      <Time>2014-06-08T20:35:54.3153508+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\quitbutton.png</Source>
+      <Name>Images\Menu\quitbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Menu\quitbutton.xnb</Output>
+      <Time>2014-06-08T20:35:54.3163509+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\startgamebutton.png</Source>
+      <Name>Images\Menu\startgamebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Menu\startgamebutton.xnb</Output>
+      <Time>2014-06-08T20:35:54.3193511+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\backbutton.png</Source>
+      <Name>Images\Menu\backbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Menu\backbutton.xnb</Output>
+      <Time>2014-06-08T20:35:54.2823489+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Game\spritesheet.png</Source>
+      <Name>Images\Game\spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Game\spritesheet.xnb</Output>
+      <Time>2015-01-11T18:17:57.4912463+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Game\soldier.png</Source>
+      <Name>Images\Game\soldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Game\soldier.xnb</Output>
+      <Time>2015-01-11T21:59:38.8843088+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Game\Bullet2.png</Source>
+      <Name>Images\Game\Bullet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Game\Bullet2.xnb</Output>
+      <Time>2015-01-12T02:03:28.3155106+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Game\shotgun.png</Source>
+      <Name>Images\Game\shotgun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Game\shotgun.xnb</Output>
+      <Time>2015-01-12T02:52:26.8918665+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\pausbackground.png</Source>
+      <Name>Images\Background\pausbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Background\pausbackground.xnb</Output>
+      <Time>2015-01-12T04:02:50.1344438+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\continuebutton.png</Source>
+      <Name>Images\Menu\continuebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Menu\continuebutton.xnb</Output>
+      <Time>2015-01-12T04:19:29.059579+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\mainmenubutton.png</Source>
+      <Name>Images\Menu\mainmenubutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Menu\mainmenubutton.xnb</Output>
+      <Time>2015-01-12T04:19:29.058579+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\SpriteFont1.spritefont</Source>
+      <Name>Font\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Font\SpriteFont1.xnb</Output>
+      <Time>2015-01-14T09:24:33.4219577+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Game\worm.png</Source>
+      <Name>Images\Game\worm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Game\worm.xnb</Output>
+      <Time>2015-01-14T07:32:10.2396866+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Game\splat.png</Source>
+      <Name>Images\Game\splat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Game\splat.xnb</Output>
+      <Time>2015-01-14T07:43:52.9721253+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\nextlevelbutton.png</Source>
+      <Name>Images\Menu\nextlevelbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Menu\nextlevelbutton.xnb</Output>
+      <Time>2015-01-14T08:00:40.5772822+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\restartbutton.png</Source>
+      <Name>Images\Menu\restartbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Menu\restartbutton.xnb</Output>
+      <Time>2015-01-14T08:21:18.4551277+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Game\spine.png</Source>
+      <Name>Images\Game\spine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Game\spine.xnb</Output>
+      <Time>2015-01-14T08:52:26.4231072+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\dark.png</Source>
+      <Name>Images\Background\dark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Background\dark.xnb</Output>
+      <Time>2015-01-14T09:51:41.9125621+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Game\armor.png</Source>
+      <Name>Images\Game\armor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Game\armor.xnb</Output>
+      <Time>2015-01-14T10:10:21.9606791+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\barreta_m9-Dion_Stapper-1010051237.wav</Source>
+      <Name>Audio\barreta_m9-Dion_Stapper-1010051237</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\barreta_m9-Dion_Stapper-1010051237.xnb</Output>
+      <Time>2015-01-14T13:48:16.2015419+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Blip_1-Surround-7482_hifi.wav</Source>
+      <Name>Audio\Blip_1-Surround-7482_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Blip_1-Surround-7482_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.0583361+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Clunch-Intermed-533_hifi.wav</Source>
+      <Name>Audio\Clunch-Intermed-533_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Clunch-Intermed-533_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.0593362+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Clunk-Public_D-287_hifi.wav</Source>
+      <Name>Audio\Clunk-Public_D-287_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Clunk-Public_D-287_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.0603362+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Cold_loo-Dlaor-9634_hifi.wav</Source>
+      <Name>Audio\Cold_loo-Dlaor-9634_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Cold_loo-Dlaor-9634_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.0693368+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Dink-Public_D-146_hifi.wav</Source>
+      <Name>Audio\Dink-Public_D-146_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Dink-Public_D-146_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.0703368+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Floomp-Public_D-340_hifi.wav</Source>
+      <Name>Audio\Floomp-Public_D-340_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Floomp-Public_D-340_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.0713369+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\idg-pop1-intermed-3033_hifi.wav</Source>
+      <Name>Audio\idg-pop1-intermed-3033_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\idg-pop1-intermed-3033_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.1483413+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\idg-pop2-intermed-3030_hifi - Copy (2).wav</Source>
+      <Name>Audio\idg-pop2-intermed-3030_hifi - Copy (2)</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\idg-pop2-intermed-3030_hifi - Copy (2).xnb</Output>
+      <Time>2014-06-08T20:35:54.1483413+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\idg-pop2-intermed-3030_hifi - Copy.wav</Source>
+      <Name>Audio\idg-pop2-intermed-3030_hifi - Copy</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\idg-pop2-intermed-3030_hifi - Copy.xnb</Output>
+      <Time>2014-06-08T20:35:54.1563417+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\idg-pop2-intermed-3030_hifi.wav</Source>
+      <Name>Audio\idg-pop2-intermed-3030_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\idg-pop2-intermed-3030_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.1573418+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\idg-pop2-intermed-3056_hifi.wav</Source>
+      <Name>Audio\idg-pop2-intermed-3056_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\idg-pop2-intermed-3056_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.1583418+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\idg-pop3-intermed-3016_hifi.wav</Source>
+      <Name>Audio\idg-pop3-intermed-3016_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\idg-pop3-intermed-3016_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.1593419+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\idg-synt-intermed-2622_hifi.wav</Source>
+      <Name>Audio\idg-synt-intermed-2622_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\idg-synt-intermed-2622_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.161342+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\industri-dog-7589_hifi.wav</Source>
+      <Name>Audio\industri-dog-7589_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\industri-dog-7589_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.1813432+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Nice_Not-NEO_Soun-8393_hifi.wav</Source>
+      <Name>Audio\Nice_Not-NEO_Soun-8393_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Nice_Not-NEO_Soun-8393_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.0793373+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\ooweep-Intermed-594_hifi.wav</Source>
+      <Name>Audio\ooweep-Intermed-594_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\ooweep-Intermed-594_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.1823432+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\ponggg-Brandon_-8328_hifi.wav</Source>
+      <Name>Audio\ponggg-Brandon_-8328_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\ponggg-Brandon_-8328_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.1843433+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Pop-J_Fairba-8421_hifi.wav</Source>
+      <Name>Audio\Pop-J_Fairba-8421_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Pop-J_Fairba-8421_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.0803374+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\pop-SodaBush-7991_hifi.wav</Source>
+      <Name>Audio\pop-SodaBush-7991_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\pop-SodaBush-7991_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.1863434+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\PowerUp-Mark_E_B-8070_hifi.wav</Source>
+      <Name>Audio\PowerUp-Mark_E_B-8070_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\PowerUp-Mark_E_B-8070_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.0813374+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\PulseSho-Mark_E_B-8071_hifi.wav</Source>
+      <Name>Audio\PulseSho-Mark_E_B-8071_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\PulseSho-Mark_E_B-8071_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.0823375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Tap_on_M-Sapphire-8662_hifi.wav</Source>
+      <Name>Audio\Tap_on_M-Sapphire-8662_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Tap_on_M-Sapphire-8662_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.0833376+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Techno_B-Urbanlex-7847_hifi.wav</Source>
+      <Name>Audio\Techno_B-Urbanlex-7847_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Techno_B-Urbanlex-7847_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.0843376+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\The_Area-Tarantul-9398_hifi1.wav</Source>
+      <Name>Audio\The_Area-Tarantul-9398_hifi1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\The_Area-Tarantul-9398_hifi1.xnb</Output>
+      <Time>2014-06-08T20:35:54.1203397+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Triblip-Intermed-655_hifi.wav</Source>
+      <Name>Audio\Triblip-Intermed-655_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Triblip-Intermed-655_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.1213397+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Triblip_-Intermed-656_hifi.wav</Source>
+      <Name>Audio\Triblip_-Intermed-656_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Triblip_-Intermed-656_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.1223398+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Wet_Nap-dropzero-7770_hifi.wav</Source>
+      <Name>Audio\Wet_Nap-dropzero-7770_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Wet_Nap-dropzero-7770_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.1243399+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\ZipUp-Mark_E_B-8079_hifi.wav</Source>
+      <Name>Audio\ZipUp-Mark_E_B-8079_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\ZipUp-Mark_E_B-8079_hifi.xnb</Output>
+      <Time>2014-06-08T20:35:54.1473412+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Desert_E-Diode111-8780_hifi.wav</Source>
+      <Name>Audio\Desert_E-Diode111-8780_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Desert_E-Diode111-8780_hifi.xnb</Output>
+      <Time>2015-01-14T14:56:08.8661481+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Handgun-MelonHea-7519_hifi.wav</Source>
+      <Name>Audio\Handgun-MelonHea-7519_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Handgun-MelonHea-7519_hifi.xnb</Output>
+      <Time>2015-01-14T14:56:08.8681483+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Shotgun_-Flash_Ma-7446_hifi.wav</Source>
+      <Name>Audio\Shotgun_-Flash_Ma-7446_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Shotgun_-Flash_Ma-7446_hifi.xnb</Output>
+      <Time>2015-01-14T14:56:08.8696485+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Shoutgun-Jhon-7486_hifi.wav</Source>
+      <Name>Audio\Shoutgun-Jhon-7486_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Shoutgun-Jhon-7486_hifi.xnb</Output>
+      <Time>2015-01-14T14:56:08.8651479+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\alien_sc-skullkee-8340_hifi.wav</Source>
+      <Name>Audio\alien_sc-skullkee-8340_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\alien_sc-skullkee-8340_hifi.xnb</Output>
+      <Time>2015-01-14T15:06:46.8271588+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Beast_sl-tim1050-8287_hifi.wav</Source>
+      <Name>Audio\Beast_sl-tim1050-8287_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Beast_sl-tim1050-8287_hifi.xnb</Output>
+      <Time>2015-01-14T15:06:46.828159+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\monster_-Brian_Kl-8153_hifi.wav</Source>
+      <Name>Audio\monster_-Brian_Kl-8153_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\monster_-Brian_Kl-8153_hifi.xnb</Output>
+      <Time>2015-01-14T15:06:46.8251586+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Death-BKGr-7835_hifi.wav</Source>
+      <Name>Audio\Death-BKGr-7835_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Death-BKGr-7835_hifi.xnb</Output>
+      <Time>2015-01-14T15:17:13.2282017+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Punch-joshman_-7996_hifi.wav</Source>
+      <Name>Audio\Punch-joshman_-7996_hifi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Punch-joshman_-7996_hifi.xnb</Output>
+      <Time>2015-01-14T15:32:33.5470673+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Bir Poop Splat.wav</Source>
+      <Name>Audio\Bir Poop Splat</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Audio\Bir Poop Splat.xnb</Output>
+      <Time>2015-01-14T15:39:17.9984261+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Game\spark.png</Source>
+      <Name>Images\Game\spark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\Images\Game\spark.xnb</Output>
+      <Time>2015-01-14T16:44:55.9479822+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D3C89BE1-41D6-4242-A3C5-F67138969A95}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\DefenderContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Vanilla\Documents\Visual Studio 2012\Projects\Defender\Defender\Defender\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-04-06T00:12:46.0046564+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
